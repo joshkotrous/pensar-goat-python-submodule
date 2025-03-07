@@ -1,0 +1,3 @@
+[submodule "pensar-goat-python"]
+	path = pensar-goat-python
+	url = https://github.com/joshkotrous/pensar-goat-python.git
